@@ -1,5 +1,5 @@
 {
-  "name": "qa-cypress-eval",
+  "name": "ele-qa-cypress-eval",
   "version": "1.0.0",
   "description": "QA automated testing evaluation project using Cypress.io",
   "repository": {
@@ -13,6 +13,8 @@
   "author": "Lanetix",
   "license": "GPL-3.0",
   "devDependencies": {
-    "cypress": "^4.12.1"
+    "cypress": "^4.12.1",
+    "eslint": "^7.22.0",
+    "eslint-config-google": "^0.14.0"
   }
 }

@@ -1,3 +1,4 @@
 {
-  "baseUrl": "https://demoqa.com"
+  "baseUrl": "https://demoqa.com",
+  "practiceForm": "/automation-practice-form/"
 }

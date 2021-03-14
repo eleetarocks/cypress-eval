@@ -29,7 +29,13 @@ QA automated testing evaluation project using Cypress.io
 - Continue your adventure here
 
 
+# Additonal Info
 
+- Considering the limited time span allocate for the project, not converting project to a Typescript based application
+- To identify the most appropriate implentation for Cypress.io, one must refer to [cypress-realworld-app]
+## Prerequisites
+- Make sure you have Node, NPM and NVM installed
+- NVM URL : https://github.com/nvm-sh/nvm 
 
-
+[cypress-realworld-app]: https://github.com/cypress-io/cypress-realworld-app
 
